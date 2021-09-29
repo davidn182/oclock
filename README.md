@@ -1,7 +1,5 @@
 # OCloC
-Clock error correction of ocean bottom seismometers
-
-OCloC is an open-source Python-based package to correct clock errors of seismological stations.
+OCloC is an open-source Python-based package to correct clock errors of ocean bottom seismometers.
 
 ## Apache
 ### Apache 2.0 License
