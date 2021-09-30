@@ -22,6 +22,5 @@ setup(
         'obspy',
         'seaborn']
     python_requires=">=3.7",
-    license="Apache-2.0",
-    setup_requires=["setuptools_scm"],
+    license="Apache-2.0"
 )
