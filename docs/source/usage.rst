@@ -8,8 +8,6 @@ Installation
 
 To use oclock, first install it using pip:
 
-### Installation
-
 You need to download the folder.
 It is necessary to install Obspy, Jupyter notebooks, and Basemap.
 It is recommendable doing this via Anaconda and in a new environment as follows:
